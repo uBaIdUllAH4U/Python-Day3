@@ -1,6 +1,6 @@
 name = "Ubaidullah Waheed"
 age = 13
 city = "Karachi"
-print("My name is " + name + ".")
-print("I am " + age + " years old.")
-print("I live in " + city + ".")
+print("My name is ", name, ".")
+print("I am ", age, " years old.")
+print("I live in ", city, ".")
